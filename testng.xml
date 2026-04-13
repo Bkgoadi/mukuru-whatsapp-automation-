@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WhatsApp Test Suite" verbose="1" parallel="none">
+    <test name="WhatsApp Tests" preserve-order="true">
+        <classes>
+            <class name="com.mukuru.TestRunner.TestRunner"/>
+        </classes>
+    </test>
+</suite>

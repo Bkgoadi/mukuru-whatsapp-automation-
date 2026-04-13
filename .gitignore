@@ -1,0 +1,16 @@
+# Build output
+target/
+
+# Screenshots generated at runtime
+screenshots/
+
+# Loose screenshots in root
+*.png
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Credentials / secrets
+*.env
